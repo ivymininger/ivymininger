@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivymininger
 - 👀 I’m interested in using GIS for hydrology and geochemistry
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects using QGIS and water data
 - 📫 How to reach me: www.linkedin.com/in/ivy-mininger
 - 😄 Pronouns: she/her
